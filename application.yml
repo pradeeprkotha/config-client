@@ -1,5 +1,0 @@
-spring.application.name=config-client
-
-spring.cloud.config.uri=http://localhost:8888
-
-message = a new message is added in yml file
